@@ -1,0 +1,2 @@
+Application.ActiveSheet.Range("A1").Select
+Application.Selection.Value = "Hello World"
